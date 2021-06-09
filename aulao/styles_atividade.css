@@ -1,3 +1,9 @@
 body {
     background-image: url('img-banner.jpg');
 }
+
+.btn-presenca {
+    padding: 15px 25px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
